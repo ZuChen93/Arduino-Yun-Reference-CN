@@ -13,3 +13,4 @@ Arduino Yun Chinese Reference
 - Bridge类  
 - Process类  
 - Console类  
+- FileIO类
