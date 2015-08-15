@@ -14,3 +14,5 @@ Arduino Yun Chinese Reference
 - Process类  
 - Console类  
 - FileIO类
+- Mailbox类
+- HttpClient类
