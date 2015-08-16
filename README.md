@@ -16,3 +16,5 @@ Arduino Yun Chinese Reference
 - FileIO类
 - Mailbox类
 - HttpClient类
+- YunServer类
+- YunClient类
