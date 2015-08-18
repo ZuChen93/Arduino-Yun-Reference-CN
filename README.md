@@ -2,7 +2,7 @@
 Arduino Yun Chinese Reference
 ## 请移步至[WiKi页面](https://github.com/ZuChen93/Arduino-Yun-Reference-CN/wiki)
 
-### 已翻译页面：
+### 目录*（截至2015-8-18）*：
 * [Arduino Yún简介](https://github.com/ZuChen93/Arduino-Yun-Reference-CN/wiki/Arduino-Y%C3%BAn)
 * [Arduino Yún入门指导](https://github.com/ZuChen93/Arduino-Yun-Reference-CN/wiki/ArduinoYunGuide) 
  * [Yún软件包管理器](https://github.com/ZuChen93/Arduino-Yun-Reference-CN/wiki/YunPackageManager)
